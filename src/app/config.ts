@@ -1,0 +1,1 @@
+export const SPRING_API_URL = (pathname: string) => 'http://localhost:8080/api/' + pathname
