@@ -1,1 +1,1 @@
-export const SPRING_API_URL = (pathname: string) => 'http://localhost:8080/api/' + pathname
+export const SPRING_API_URL = (pathname: string) => 'https://law-tugas1-ramdhan.up.railway.app/api/' + pathname
